@@ -1,0 +1,134 @@
+:root {
+    --font-family: 'Pacifico', cursive;
+}
+
+* {box-sizing: border-box;}
+
+.header {
+    height: 300px;
+    background-color: #EA8D03;
+    /* border: 1px solid green; */
+}
+
+.header-item {
+    margin-top: 50px;
+}
+
+.links {
+    color: black;
+    padding: 10px;
+    /* border: 1px solid red; */
+}
+
+.hero {
+    padding: 50px 50px;
+    height: 300px;
+    width: 350px;
+    border-radius: 50%;
+}
+
+.button {
+    margin-top: 50px;
+    padding: 0 30px;
+}
+
+.see {
+    padding: 10px 30px;
+    background-color: #FF3535;
+    border-radius: 50px;
+}
+
+.sign-up {
+    padding: 10px 30px;
+    background-color: #98387D;
+    border-radius: 50px;
+}
+
+.main {
+    background-color: #DDBC7D;
+}
+
+.title {
+    margin-top: 50px;
+}
+
+.pic {
+    margin-top: 50px;
+}
+
+.smoothies {
+    margin-left: 300px;
+    border-radius: 10%;
+}
+
+.stuff1 {
+    width: 25%;
+}
+
+.start {
+    color: wheat;
+    background-color: black;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.main2 {
+    margin-top: 70px;
+}
+
+.title2 {
+    margin-top: 50px;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.name {
+    margin-left: 40px;
+    margin-top: -17px;
+}
+
+.smooth {
+    position: absolute;
+    right: 20%;
+    z-index: 10;
+    width: 30%;
+    height: 30%;
+    margin-top: 40px;
+    border-radius: 50px;
+}
+
+.berries {
+    position: absolute;
+    z-index: 1;
+    right: 5%;
+    width: 30%;
+    height: 30%;
+    margin-top: -50px;
+    border-radius: 50px;
+}
+
+.footer {
+    background-color: #F3A897;
+}
+
+.image {
+    width: 175px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: -50px;
+}
+
+.footer-text {
+    margin-left: -70px;
+    border-right: 1px solid black;
+}
+
+.div, .div2 {
+    margin-top: 30px;
+}
